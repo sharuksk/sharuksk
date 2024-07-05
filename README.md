@@ -1,5 +1,15 @@
-Reach me, 
-[sharukhanofficialsmail@gmail.com](mailto:sharukhanofficialsmail@gmail.com) :-)
+🌟 MERN Stack Developer | Full-Stack Enthusiast
+
+👨‍💻 Crafting robust and dynamic web applications with MongoDB, Express.js, React, and Node.js.
+
+🔍 Passionate about building scalable solutions and bringing innovative ideas to life.
+
+📚 Constantly learning and exploring the latest in web development to stay ahead of the curve.
+
+🌐 Check out my projects and let's collaborate on something amazing!
+
+📫 Reach out to me: [sharukhanofficialsmail@gmail.com](mailto:sharukhanofficialsmail@gmail.com) :-)
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
