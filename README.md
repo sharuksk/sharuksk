@@ -5,7 +5,7 @@ Reach me, [sharukhanofficialsmail@gmail.com](mailto:sharukhanofficialsmail@gmail
 
 ```txt
 JavaScript   19 hrs 14 mins  ███████████████████████▓░   95.19 %
-CSS          12 hrs 20mins    ████████████████████▓░░░░   68.70 %
+CSS          12 hrs 20mins   ████████████████████▓░░░░   68.70 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
