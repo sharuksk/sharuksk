@@ -1,4 +1,4 @@
-###Reach me, 
+Reach me, 
 [sharukhanofficialsmail@gmail.com](mailto:sharukhanofficialsmail@gmail.com) :-)
 
 📊 **this week i spent my time on:**
@@ -15,6 +15,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 Here is my portfolio Site, look into it 👉
 
 <a href="https://sharukhan-portfolio-mern.netlify.app/" target="_blank"><img src="https://static.vecteezy.com/system/resources/thumbnails/012/871/548/small_2x/click-here-button-in-yellow-colors-with-pointer-clicking-click-here-web-button-illustration-png.png" alt="My Portfolio" width="150" ></a>
+
+![MasterHead](https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif)
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->       
