@@ -10,13 +10,15 @@
 
 📫 Reach out to me: [sharukhanofficialsmail@gmail.com](mailto:sharukhanofficialsmail@gmail.com) :-)
 
-===================================================================================================================
+==================================================================================
 
 Currently Learning: 
 
 ⚛ React Native ⚛
+
 📲 Mobile App Development  📲
 
+==================================================================================
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
