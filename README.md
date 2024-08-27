@@ -1,5 +1,7 @@
 🌟 MERN Stack Developer | Full-Stack Enthusiast
 
+🅰️ Angular 17
+
 👨‍💻 Crafting robust and dynamic web applications with MongoDB, Express.js, React, and Node.js.
 
 🔍 Passionate about building scalable solutions and bringing innovative ideas to life.
